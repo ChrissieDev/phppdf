@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christian\\source\\repos\\phppdf\\phppdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67020419-A4FC-40DD-85DC-557A0774E8C9}|phppdf.phpproj|c:\\users\\christian\\source\\repos\\phppdf\\phppdf\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{67020419-A4FC-40DD-85DC-557A0774E8C9}|phppdf.phpproj|solutionrelative:index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67020419-A4FC-40DD-85DC-557A0774E8C9}|phppdf.phpproj|c:\\users\\christian\\source\\repos\\phppdf\\phppdf\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67020419-A4FC-40DD-85DC-557A0774E8C9}|phppdf.phpproj|solutionrelative:composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "composer.json",
+              "DocumentMoniker": "C:\\Users\\Christian\\source\\repos\\phppdf\\phppdf\\composer.json",
+              "RelativeDocumentMoniker": "composer.json",
+              "ToolTip": "C:\\Users\\Christian\\source\\repos\\phppdf\\phppdf\\composer.json",
+              "RelativeToolTip": "composer.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T21:59:00.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\Users\\Christian\\source\\repos\\phppdf\\phppdf\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\Users\\Christian\\source\\repos\\phppdf\\phppdf\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-04-06T21:47:27.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
